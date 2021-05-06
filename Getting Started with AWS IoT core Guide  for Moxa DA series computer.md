@@ -44,7 +44,7 @@ The standard shipping Moxa DA series computer package contains the following ite
 
 To setup and operate Moxa computer, users have to prepare the following items by themselves.
 
-- 10/100M Ethernet cable
+- 100/1000M Ethernet cables
 - Power source: 100 to 240 VAC or 110 to 240 VDC
 
 ## 3rd Party purchasable items
