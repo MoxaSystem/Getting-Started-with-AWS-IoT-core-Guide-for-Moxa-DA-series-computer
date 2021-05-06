@@ -4,7 +4,10 @@
 
 ## Revision History (Version, Date, Description of change)
 
-[Untitled](https://www.notion.so/bef88b3069d54024aed3d649844573a7)
+| Version | Date        | Description of change |
+| ------- | ----------- | --------------------- |
+| 1       | 2021//04/19 | First release         |
+|         |             |                       |
 
 # Overview
 
