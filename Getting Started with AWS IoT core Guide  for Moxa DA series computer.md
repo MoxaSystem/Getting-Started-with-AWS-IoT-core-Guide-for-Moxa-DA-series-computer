@@ -46,6 +46,7 @@ To setup and operate Moxa computer, users have to prepare the following items by
 
 - 100/1000M Ethernet cables
 - Power source: 100 to 240 VAC or 110 to 240 VDC
+- Power cord: Power cord with AU/CN/EU/UK/US plug type, Input Voltage 10A/250V, Max. Current 10A, Thickness 6.3±0.2 mm, Length 1830±30 mm 
 
 ## 3rd Party purchasable items
 
